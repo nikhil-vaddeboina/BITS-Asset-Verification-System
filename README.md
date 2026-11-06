@@ -5,7 +5,7 @@ Asset Verify is a Flask web app for tracking equipment, generating QR labels, an
 ## Features
 
 - Password-hashed sign-in, optional authenticator MFA, and administrator-managed technician permissions.
-- Add, view, search, edit, delete, and bulk import assets.
+- Add, view, search, edit, and bulk import assets.
 - Generate, download, print, and scan QR labels. QR image bytes are stored in MySQL.
 - Record verification results and review the verification history.
 - View database-backed counts and dashboard charts.
